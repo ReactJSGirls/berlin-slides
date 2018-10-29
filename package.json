@@ -10,10 +10,10 @@
     "help": "mdx-deck"
   },
   "keywords": [],
-  "author": "Brent Jackson",
+  "author": "Sara Vieira",
   "license": "MIT",
   "devDependencies": {
     "mdx-deck": "^1.6.7"
   },
-  "name": "react-girls-berlin"
+  "name": "react-girls-berlin-deck"
 }
